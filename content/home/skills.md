@@ -28,6 +28,10 @@ feature:
   icon_pack: custom
   description: Piano, Guqin, Sketching, Digital Art
   name: Art
+- icon: lang
+  icon_pack: custom
+  description: Chinese, English, German
+  name: Language
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

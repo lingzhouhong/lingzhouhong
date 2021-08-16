@@ -42,7 +42,7 @@ title: Lingzhou Hong
 
 Lingzhou Hong is a Ph.D. candidate in Industrial & Systems Engineering department at Texas A&M University. Her research interests include distributed optimization, machine learning, and statistical modeling. She is familiar with multiple programming languages, including Python, R, and Matlab. She is a quick learner, self-starter, and team player. Moreover, she has excellent communication skills.  
 
-Besides her academic research, she enjoys sketching,  raising chinchillas, playing the piano and the Guqin (a traditional Chinese instrument).
+Besides her academic research, she enjoys sketching,  raising chinchillas, playing the piano and the Guqin (a traditional Chinese instrument). She can also speak Chinese, English, and German fluently.
 
 
 
